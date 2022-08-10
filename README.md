@@ -9,7 +9,7 @@ This step-by-step guide is written assuming that this may be your first time con
 | --- | ----------- | ----------- | ----------- |
 | en | English | Complete | Hellō
 | hi | Hindi | Complete | [Rohan Harikumar](https://github.com/rohanharikr), S. Harikumar, Vinod Kandra
-| ar | Arabic | Complete | Kishor
+| ar | Arabic | Complete | Kishor Kumar
 | fr | French | Complete | Jennifer Hardt
 | de | German | Complete | Nicole Fior-Greant, [Zak Greant](https://github.com/zakgreant)
 | es | Spanish | Complete | Santiago Madrid
