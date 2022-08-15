@@ -58,7 +58,7 @@ In the GitHub repo page (https://github.com/your-username/wallet-i18n), click on
 
 ## License
 [CC0-1.0](./license.txt)<br/>
-<img src="https://cdn.hello.coop/images/cc0-icon.png" alt="CC0-1.0" style="width: 120px; margin-top: 6px;" />
+<img src="https://cdn.hello.coop/images/cc0-icon.png" alt="CC0-1.0" style="width: 120px; margin-top: 10px;" />
 
 ---
 
