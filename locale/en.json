@@ -157,7 +157,6 @@
 	"Preferred language is now {language}": "Preferred language is now {language}",
 	"Preferred name added": "Preferred name added",
 	"Preferred name removed": "Preferred name removed",
-	"Privacy Policy": "Privacy Policy",
 	"Profile Picture": "Profile Picture",
 	"Profile picture added": "Profile picture added",
 	"Profile picture removed": "Profile picture removed",
@@ -183,7 +182,6 @@
 	"Something went wrong": "Something went wrong",
 	"Start": "Start",
 	"Stay Logged In": "Stay Logged In",
-	"Terms of Service": "Terms of Service",
 	"The email you just tried to link is already linked with another user": "The email you just tried to link is already linked with another user",
 	"The phone you just tried to link is already linked with another user": "The phone you just tried to link is already linked with another user",
 	"The {provider} account you just tried to link is already linked with another user": "The {provider} account you just tried to link is already linked with another user",
@@ -278,26 +276,16 @@
 	"Open your wallet": "Open your wallet",
 	"email_template": {
 		"welcome": {
-			"Hellō Welcoming Committee": "Hellō Welcoming Committee",
+			"sender": "Hellō Welcoming Committee",
 			"subject": "Say Hellō to Controlling Your Identity",
-			"cta": "Take control of your identity",
-			"general": {
-				"p_one": "You are now a member of Hellō, a cooperative created to give everyone control of their personal digital identity with industry-leading privacy and security.",
-				"p_two": "With Hellō, gone are the days of verifying your phone number and email over and over. Complete your Hellō profile and say goodbye to creating yet another username and password."
-			},
-			"app": {
-				"p_one": "When you logged in to {appName}, you became a member of Hellō, a cooperative created to give everyone control of their personal digital identity with industry-leading privacy and security.",
-				"p_two": "Hellō empowers you to use any login provider you want, and select recovery providers so you never lose access. Say goodbye to creating yet another username and password."
-			}
-		},
-		"verification_code": {
-			"subject": "Your Hellō Email Verification Code",
-			"content": "Your email verification code is: {code}"
+			"general_intro": "You are now a member of Hellō, a cooperative created to give everyone control of their personal digital identity with industry-leading privacy and security.",
+			"app_intro": "When you logged in to {appName}, you became a member of Hellō, a cooperative created to give everyone control of their personal digital identity with industry-leading privacy and security.",
+			"value_prop": "Hellō empowers you to use any login provider you want, and select recovery providers so you never lose access. Say goodbye to creating yet another username and password.",
+			"cta": "Take control of your identity"
 		}
 	},
-	"phone_template": {
+	"verification_template": {
+		"email_subject": "Your Hellō Email Verification Code",
 		"content": "Your Hellō verification code is: {code}"
-	},
-	"Trademark Disclaimer": "Trademark Disclaimer",
-	"From Hello Identity Co-op": "From Hello Identity Co-op"
+	}
 }
