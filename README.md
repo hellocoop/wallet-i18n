@@ -7,12 +7,12 @@ This step-by-step guide is written assuming that this may be your first time con
 ## Currently supported locales
 | Short code | Language | Status | Contributors | 
 | --- | ----------- | ----------- | ----------- |
-| en | English | 281/281 | Hellō
-| hi | Hindi | 273/281 | [Rohan Harikumar](https://github.com/rohanharikr), S. Harikumar, Vinod Kandra
-| ar | Arabic | 273/281 | Kishor Kumar
-| fr | French | 273/281 | Jennifer Hardt
-| de | German | 273/281 | Nicole Fior-Greant, [Zak Greant](https://github.com/zakgreant)
-| es | Spanish | 273/281 | Santiago Madrid
+| en | English | 282/282 | Hellō
+| hi | Hindi | 274/282 | [Rohan Harikumar](https://github.com/rohanharikr), S. Harikumar, Vinod Kandra
+| ar | Arabic | 274/282 | Kishor Kumar
+| fr | French | 274/282 | Jennifer Hardt
+| de | German | 274/282 | Nicole Fior-Greant, [Zak Greant](https://github.com/zakgreant)
+| es | Spanish | 274/282 | Santiago Madrid
 | xx | Don't see a locale? PR's welcome! | In Progress | your-name-here
 
 ### Want to add a locale or make corrections? Follow the guide below and we will happily review and merge!
