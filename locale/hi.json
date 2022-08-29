@@ -170,6 +170,7 @@
   "Recovery Providers": "रिकवरी प्रोवाइडर्स",
   "Recovery Setup<br/>Incomplete": "रिकवरी सेटअप<br/>पूर्ण नहीं है",
   "Remembers your login choice on each device": "प्रत्येक डिवाइस पर आपकी लॉगिन पसंद को याद रखता है",
+  "Request cancelled": "La demande a été annulée",
   "Request timed out, please try again": "अनुरोध का समय समाप्त हो गया, कृपया पुन: प्रयास करें",
   "Resend verification code": "सत्यापन कोड पुनः भेजें",
   "Resent verification code to {contact}": "सत्यापन कोड को {contact} पर दोबारा भेजें",
@@ -181,7 +182,6 @@
   "Sign with {address}": "{address} के साथ साइन इन करें",
   "Skip": "स्किप",
   "Something went wrong. Please try again later.": "कुछ गलत हो गया। बाद में पुन: प्रयास करें।",
-  "Request cancelled": "La demande a été annulée",
   "Start": "प्रारंभ",
   "Stay Logged In": "लॉगइन रखें",
   "Terms of Service": " टर्म्स ऑफ़ सर्विस",
@@ -242,12 +242,12 @@
   "device": "डिवाइस",
   "email_template": {
     "welcome": {
-      "app_intro": "",
-      "cta": "",
-      "general_intro": "",
-      "sender": "",
-      "subject": "",
-      "value_prop": ""
+      "app_intro": "जब आप {appName} में लॉग इन करते हैं, तो आप Hellō के सदस्य बन जाते हैं, जो उद्योग की अग्रणी गोपनीयता और सुरक्षा के साथ सभी को उनकी व्यक्तिगत डिजिटल पहचान पर नियंत्रण देने के लिए बनाई गई एक सहकारी संस्था है।",
+      "cta": "अपनी पहचान पर नियंत्रण रखें",
+      "general_intro": "अब आप Hellō के सदस्य हैं, जो उद्योग की अग्रणी गोपनीयता और सुरक्षा के साथ सभी को उनकी व्यक्तिगत डिजिटल पहचान पर नियंत्रण देने के लिए बनाई गई एक सहकारी संस्था है।",
+      "sender": "Hellō स्वागत समिति",
+      "subject": "अपनी पहचान को नियंत्रित करने के लिए Hellō कहें",
+      "value_prop": "Hellō आपको अपने इच्छित किसी भी लॉगिन प्रोवाइडर का उपयोग करने और पुनर्प्राप्ति प्रोवाइडरओं का चयन करने का अधिकार देता है ताकि आप कभी भी पहुंच न खोएं। एक और उपयोगकर्ता नाम और पासवर्ड बनाने के लिए अलविदा कहें।"
     }
   },
   "en": "English (अंग्रेज़ी)",
@@ -276,8 +276,8 @@
   "requires your preferred name": "आपके पसंदीदा नाम की आवश्यकता है",
   "today": "आज",
   "verification_template": {
-    "content": "",
-    "email_subject": ""
+    "content": "आपका Hellō सत्यापन कोड है: {code}",
+    "email_subject": "आपका Hellō ईमेल सत्यापन कोड"
   },
   "with a code": "एक कोड के साथ",
   "zh-cn": "简体中文 (चीनी (सरलीकृत))",
