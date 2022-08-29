@@ -170,6 +170,7 @@
   "Recovery Providers": "Fournisseurs de récupération",
   "Recovery Setup<br/>Incomplete": "Configuration de la récupération<br/>Incomplète",
   "Remembers your login choice on each device": "Mémorise votre choix de connexion sur chaque appareil",
+  "Request cancelled": "La demande a été annulée",
   "Request timed out, please try again": "La demande a expiré, veuillez réessayer",
   "Resend verification code": "Renvoyer le code de vérification",
   "Resent verification code to {contact}": "Renvoyer le code de vérification à {contact}",
@@ -181,7 +182,6 @@
   "Sign with {address}": "Signer avec {address}",
   "Skip": "Passer à",
   "Something went wrong. Please try again later.": "Un problème est survenu. Veuillez réessayer plus tard.",
-  "Request cancelled": "La demande a été annulée",
   "Start": "Démarrer",
   "Stay Logged In": "Restez connecté",
   "Terms of Service": "Conditions d'utilisation",
@@ -242,12 +242,12 @@
   "device": "appareil",
   "email_template": {
     "welcome": {
-      "app_intro": "",
-      "cta": "",
-      "general_intro": "",
-      "sender": "",
-      "subject": "",
-      "value_prop": ""
+      "app_intro": "Lorsque vous vous êtes connecté à {appName}, vous êtes devenu membre de Hellō, une coopérative créée pour donner à chacun le contrôle de son identité numérique personnelle avec une confidentialité et une sécurité à la pointe du secteur.",
+      "cta": "Prenez le contrôle de votre identité",
+      "general_intro": "Vous êtes maintenant membre de Hellō, une coopérative créée pour donner à chacun le contrôle de son identité numérique personnelle avec une confidentialité et une sécurité à la pointe du secteur.",
+      "sender": "Comité d'accueil de Hellō",
+      "subject": "Dites Hellō au contrôle de votre identité",
+      "value_prop": "Hellō vous permet d'utiliser le fournisseur de connexion de votre choix, et de sélectionner des fournisseurs de récupération pour ne jamais perdre l'accès. Dites adieu à la création d'un énième nom d'utilisateur et mot de passe."
     }
   },
   "en": "English (Anglais)",
@@ -276,8 +276,8 @@
   "requires your preferred name": "requiert votre nom préféré",
   "today": "aujourd'hui",
   "verification_template": {
-    "content": "",
-    "email_subject": ""
+    "content": "Votre code de vérification de l'e-mail Hellō",
+    "email_subject": "Votre code de vérification Hellō est: {code}"
   },
   "with a code": "avec un code",
   "zh-cn": "简体中文 (Chinois simplifié)",
