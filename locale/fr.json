@@ -276,8 +276,8 @@
   "requires your preferred name": "requiert votre nom préféré",
   "today": "aujourd'hui",
   "verification_template": {
-    "content": "Votre code de vérification de l'e-mail Hellō",
-    "email_subject": "Votre code de vérification Hellō est: {code}"
+    "content": "Votre code de vérification Hellō est: {code}",
+    "email_subject": "Votre code de vérification de l'e-mail Hellō"
   },
   "with a code": "avec un code",
   "zh-cn": "简体中文 (Chinois simplifié)",
