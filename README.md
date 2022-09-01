@@ -11,7 +11,7 @@ This step-by-step guide is written assuming that this may be your first time con
 | hi | Hindi | 282/282 | [Rohan Harikumar](https://github.com/rohanharikr), S. Harikumar, Vinod Kandra
 | ar | Arabic | 282/282 | Kishor Kumar
 | fr | French | 282/282 | Jennifer Hardt
-| de | German | 274/282 | Nicole Fior-Greant, [Zak Greant](https://github.com/zakgreant)
+| de | German | 282/282 | Nicole Fior-Greant, [Zak Greant](https://github.com/zakgreant)
 | es | Spanish | 282/282 | Santiago Madrid
 | xx | Don't see a locale? PR's welcome! | In Progress | your-name-here
 
