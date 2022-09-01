@@ -170,6 +170,7 @@
   "Recovery Providers": "Wiederherstellungsanbieter",
   "Recovery Setup<br/>Incomplete": "Wiederherstellungs-Setup<br/>unvollständig",
   "Remembers your login choice on each device": "Speichert Ihre Loginauswahl auf jedem Gerät",
+  "Request cancelled": "Antrag wurde storniert",
   "Request timed out, please try again": "Anfrage wurde abgebrochen, bitte versuchen Sie es erneut",
   "Resend verification code": "Verifizierungscode erneut senden",
   "Resent verification code to {contact}": "Verifizierungscode erneut an {contact} senden",
@@ -181,7 +182,6 @@
   "Sign with {address}": "Unterschreibe mit {address}",
   "Skip": "überspringen",
   "Something went wrong. Please try again later.": "Es ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal.",
-  "Request cancelled": "Antrag wurde storniert",
   "Start": "Starten",
   "Stay Logged In": "Eingeloggt bleiben",
   "Terms of Service": "Servicebedingungen",
@@ -242,12 +242,12 @@
   "device": "Gerät",
   "email_template": {
     "welcome": {
-      "app_intro": "",
-      "cta": "",
-      "general_intro": "",
-      "sender": "",
-      "subject": "",
-      "value_prop": ""
+      "app_intro": "Wenn Sie sich bei {appName} anmelden, werden Sie Mitglied von Hellō, einer Genossenschaft, die geschaffen wurde, um jeder Person die Kontrolle über die eigene persönliche digitale Identität mit branchenführendem Datenschutz und Sicherheit zu geben.",
+      "cta": "Übernehmen Sie die Kontrolle über Ihre Identität",
+      "general_intro": "Sie sind jetzt Mitglied von Hellō, einer Genossenschaft, die es sich zum Ziel gesetzt hat, jeder Person die Kontrolle über seine persönliche digitale Identität mit branchenführendem Datenschutz und Sicherheit zu geben.",
+      "sender": "Hellō Begrüßungsausschuss",
+      "subject": "Sagen der Kontrolle Ihrer Identität Hellō",
+      "value_prop": "Hellō ermöglicht es Ihnen, jeden beliebigen Login-Anbieter zu verwenden und Wiederherstellungsanbieter auszuwählen, damit Sie nie den Zugang verlieren. Verabschieden Sie sich von der Erstellung eines weiteren Benutzernamens und Passworts."
     }
   },
   "en": "English (Englisch)",
@@ -276,8 +276,8 @@
   "requires your preferred name": "erfordert Ihren bevorzugten Namen",
   "today": "heute",
   "verification_template": {
-    "content": "",
-    "email_subject": ""
+    "content": "Ihr Hellō-Verifizierungscode lautet: {code}",
+    "email_subject": "Ihr Hellō-E-Mail-Verifizierungscode"
   },
   "with a code": "mit einem Code",
   "zh-cn": "简体中文 (Chinesisch vereinfacht)",
