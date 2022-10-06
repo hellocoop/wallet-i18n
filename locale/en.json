@@ -287,9 +287,9 @@
   "{provider} has been added": "{provider} has been added",
   "{provider} {label} has been added": "{provider} {label} has been added",
   "{provider} {label} is now preferred": "{provider} {label} is now preferred",
-  "hello-container": {
-    "hello-btn": "ō&nbsp;&nbsp;&nbsp;Continue with Hellō",
-    "hello-about": "Hellō lets you control your identity",
-    "hello-about-bubble": "Hellō is a personal identity wallet that lets you choose what you share, how you authenticate, and how you recover your wallet.<br/>Hellō remembers who you are and protects your privacy."
+  "hello_container": {
+    "hello_btn": "ō&nbsp;&nbsp;&nbsp;Continue with Hellō",
+    "hello_about": "Hellō lets you control your identity",
+    "hello_about_bubble": "Hellō is a personal identity wallet that lets you choose what you share, how you authenticate, and how you recover your wallet.<br/>Hellō remembers who you are and protects your privacy."
   }
 }
