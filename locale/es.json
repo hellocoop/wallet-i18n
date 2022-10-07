@@ -261,6 +261,11 @@
   "es": "Español (Spanish)",
   "extension": "extensión",
   "fr": "Français (francés)",
+  "hello_container": {
+    "hello_about": "Hellō te permite controlar tu identidad",
+    "hello_about_bubble": "Hellō es una cartera de identidad personal que te permite elegir lo que compartes, cómo te autentificas y cómo recuperas tu cartera. Hellō recuerda quién eres y protege tu privacidad.",
+    "hello_btn": "ō&nbsp;&nbsp;&nbsp;Continuar con Hellō"
+  },
   "hi": "हिंदी (hindi)",
   "ja": "日本語 (japonés)",
   "ko": "한국어 (coreano)",

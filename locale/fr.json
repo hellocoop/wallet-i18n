@@ -261,6 +261,11 @@
   "es": "Español (Espagnol)",
   "extension": "extension",
   "fr": "Français (Français)",
+  "hello_container": {
+    "hello_about": "Hellō vous permet de contrôler votre identité",
+    "hello_about_bubble": "Hellō est un portefeuille d'identité personnelle qui vous permet de choisir ce que vous partagez, comment vous vous authentifiez et comment vous récupérez votre portefeuille. Hellō se souvient de qui vous êtes et protège votre vie privée.",
+    "hello_btn": "ō&nbsp;&nbsp;&nbsp;Continuer avec Hellō"
+  },
   "hi": "हिंदी (hindi)",
   "ja": "日本語 (Japonais)",
   "ko": "한국어 (Coréen)",

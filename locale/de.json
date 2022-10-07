@@ -261,6 +261,11 @@
   "es": "Español (Spanisch)",
   "extension": "Durchwahl",
   "fr": "Français (Französisch)",
+  "hello_container": {
+    "hello_about": "Mit Hellō können Sie Ihre Identität kontrollieren",
+    "hello_about_bubble": "Hellō ist eine persönliche Identitätsbörse, bei der Sie entscheiden können, was Sie freigeben, wie Sie sich authentifizieren und wie Sie Ihre Geldbörse wiederherstellen. Hellō merkt sich, wer Sie sind und schützt Ihre Privatsphäre.",
+    "hello_btn": "ō&nbsp;&nbsp;&nbsp;Fortfahren mit Hellō"
+  },
   "hi": "हिंदी (Hindi)",
   "ja": "日本語 (Japanisch)",
   "ko": "한국어 (Koreanisch)",
