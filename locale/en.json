@@ -1,7 +1,6 @@
 {
   "A recovery provider could be shared with someone else": "A recovery provider could be shared with someone else.",
   "Account": "Account",
-  "Account Recovery Not Set Up": "Account Recovery Not Set Up",
   "Account already linked with another wallet": "Account already linked with another wallet",
   "Add a profile picture": "Add a profile picture",
   "Add additional {provider}": "Add additional {provider}",
@@ -214,6 +213,7 @@
   "Verify your phone": "Verify your phone",
   "Waiting to sign...": "Waiting to sign...",
   "Wallet Connected ({address})": "Wallet Connected ({address})",
+  "Wallet Recovery Not Set Up": "Wallet Recovery Not Set Up",
   "Welcome": "Welcome",
   "Welcome {name}": "Welcome {name}",
   "You are about to be logged out": "You are about to be logged out",

@@ -1,7 +1,7 @@
 {
   "A recovery provider could be shared with someone else": "Un fournisseur de récupération pourrait être partagé avec quelqu'un d'autre.",
   "Account": "Compte",
-  "Account Recovery Not Set Up": "Récupération du compte non configurée",
+  "Wallet Recovery Not Set Up": "La récupération du portefeuille n'est pas configurée",
   "Account already linked with another wallet": "Le compte est déjà lié à un autre portefeuille",
   "Add a profile picture": "Ajouter une photo de profil",
   "Add additional {provider}": "Ajouter d'autres {provider}",

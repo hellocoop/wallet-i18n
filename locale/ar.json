@@ -1,7 +1,7 @@
 {
   "A recovery provider could be shared with someone else": "يمكن مشاركة موفر الاسترداد مع شخص آخر.",
   "Account": "الحساب",
-  "Account Recovery Not Set Up": "لم يتم إعداد استرداد الحساب",
+  "Wallet Recovery Not Set Up": "لم يتم إعداد إسترداد المحفظة",
   "Account already linked with another wallet": "الحساب المرتبط بالفعل بمحفظة أخرى",
   "Add a profile picture": "أضف صورة للملف الشخصي",
   "Add additional {provider}": "إضافة {provider} إضافي",
