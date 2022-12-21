@@ -122,6 +122,7 @@
   "Logging in with {provider} is generally more secure than email": "يعد تسجيل الدخول باستخدام {provider} عمومًا أكثر أمانًا من البريد الإلكتروني",
   "Logging in with {provider} is generally more secure than phone": "يعد تسجيل الدخول باستخدام {provider} عمومًا أكثر أمانًا من الهاتف",
   "Logging you in...": "التسجيل لك في ...",
+  "Looks like you are trying to use your {provider} account to log in": "يبدو أنك تحاول استخدام حساب {provider} الخاص بك لتسجيل الدخول",
   "Make Preferred": "اجعل مفضلاً",
   "Member since {date}": "عضو منذ {date}",
   "Message signed": "تم توقيع الرسالة",

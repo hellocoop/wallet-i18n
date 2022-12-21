@@ -122,6 +122,7 @@
   "Logging in with {provider} is generally more secure than email": "Die Anmeldung bei {provider} ist im Allgemeinen sicherer als eine E-Mail",
   "Logging in with {provider} is generally more secure than phone": "Die Anmeldung bei {provider} ist im Allgemeinen sicherer als die Anmeldung per Telefon",
   "Logging you in...": "Sich anmelden...",
+  "Looks like you are trying to use your {provider} account to log in": "Anscheinend versuchen Sie, sich mit Ihrem {provider}-Konto anzumelden",
   "Make Preferred": "Zu Bevorzugten",
   "Member since {date}": "Mitglied seit {date}",
   "Message signed": "Nachricht unterzeichnet",

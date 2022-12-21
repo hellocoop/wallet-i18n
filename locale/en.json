@@ -122,6 +122,7 @@
   "Logging in with {provider} is generally more secure than email": "Logging in with {provider} is generally more secure than email",
   "Logging in with {provider} is generally more secure than phone": "Logging in with {provider} is generally more secure than phone",
   "Logging you in...": "Logging you in...",
+  "Looks like you are trying to use your {provider} account to log in": "Looks like you are trying to use your {provider} account to log in",
   "Make Preferred": "Make Preferred",
   "Member since {date}": "Member since {date}",
   "Message signed": "Message signed",

@@ -122,6 +122,7 @@
   "Logging in with {provider} is generally more secure than email": "{provider} से लॉग इन करना आम तौर पर ईमेल की तुलना में अधिक सुरक्षित होता है",
   "Logging in with {provider} is generally more secure than phone": "{provider} के साथ लॉग इन करना फ़ोन की तुलना में अधिक सुरक्षित है",
   "Logging you in...": "आपको लॉग इन कर रहा है...",
+  "Looks like you are trying to use your {provider} account to log in": "ऐसा लगता है कि आप लॉग इन करने के लिए अपने {provider} खाते का उपयोग करने का प्रयास कर रहे हैं",
   "Make Preferred": "पसंदीदा बनाओ",
   "Member since {date}": "{date} से सदस्य",
   "Message signed": "मैसेज साइंड",
