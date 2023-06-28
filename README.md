@@ -13,6 +13,7 @@ This step-by-step guide is written assuming that this may be your first time con
 | fr | French | 282/282 | Jennifer Hardt
 | de | German | 282/282 | Nicole Fior-Greant, [Zak Greant](https://github.com/zakgreant)
 | es | Spanish | 282/282 | Santiago Madrid
+| pt | Portuguese | 282/282 | [Tiago Rangel](https://tiagorangel.com/)
 | xx | Don't see a locale? PR's welcome! | In Progress | your-name-here
 
 ### Want to add a locale or make corrections? Follow the guide below and we will happily review and merge!
