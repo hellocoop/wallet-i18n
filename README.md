@@ -5,16 +5,16 @@ In this repository, we coordinate all community-driven translation efforts for [
 This step-by-step guide is written assuming that this may be your first time contributing on GitHub. If you're familiar with GitHub, you can skim through this guide. If you have questions or concerns, feel free to file an [issue](https://github.com/hellocoop/wallet-i18n/issues/new) or send us an [email](mailto:contact@hello.coop).
 
 ## Currently supported locales
-| Short code | Language | Status | Contributors | 
-| --- | ----------- | ----------- | ----------- |
-| en | English | 282/282 | Hellō
-| hi | Hindi | 282/282 | [Rohan Harikumar](https://github.com/rohanharikr), S. Harikumar, Vinod Kandra
-| ar | Arabic | 282/282 | Kishor Kumar
-| fr | French | 282/282 | Jennifer Hardt
-| de | German | 282/282 | Nicole Fior-Greant, [Zak Greant](https://github.com/zakgreant)
-| es | Spanish | 282/282 | Santiago Madrid
-| pt | Portuguese | 282/282 | [Tiago Rangel](https://tiagorangel.com/)
-| xx | Don't see a locale? PR's welcome! | In Progress | your-name-here
+| Short code | Language | Contributors | 
+| --- | ----------- | ----------- |
+| en | English | Hellō
+| hi | Hindi | [Rohan Harikumar](https://github.com/rohanharikr), S. Harikumar, Vinod Kandra
+| ar | Arabic | Kishor Kumar
+| fr | French | Jennifer Hardt
+| de | German | Nicole Fior-Greant, [Zak Greant](https://github.com/zakgreant)
+| es | Spanish | Santiago Madrid
+| pt | Portuguese | [Tiago Rangel](https://tiagorangel.com/)
+| xx | Don't see a locale? PR's welcome! | your-name-here
 
 ### Want to add a locale or make corrections? Follow the guide below and we will happily review and merge!
 
