@@ -409,7 +409,8 @@
 	"ms": "Bahasa Malaysia (मलय)",
 	"none confirmed yet": "अभी तक किसी की पुष्टि नहीं हुई है",
 	"not from a managed provider": "प्रबंधित प्रदाता से नहीं",
-	"pt": "Português (पुर्तगाली)",
+	"pt-PT": "Portugal Português (पुर्तगाल पुर्तगाली)",
+	"pt-BR": "Português brasileiro (ब्राज़ीलियन पुर्तगाली)",
 	"today": "आज",
 	"verification_template": {
 		"content": "आपका Hellō सत्यापन कोड है: {code}",

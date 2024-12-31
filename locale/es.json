@@ -413,7 +413,8 @@
 	"ms": "Bahasa Malaysia (malayo)",
 	"none confirmed yet": "ninguno confirmado todavía",
 	"not from a managed provider": "No de un proveedor gestionado",
-	"pt": "Português (portugués)",
+	"pt-PT": "Portugal Português (Portugal portugués)",
+	"pt-BR": "Português brasileiro (Portugués brasileño)",
 	"today": "Hoy",
 	"verification_template": {
 		"content": "Tu código de verificación de Hellō es: {code}",
