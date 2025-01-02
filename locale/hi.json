@@ -373,7 +373,7 @@
 	"Your preferred login is phone with verification code": "आपका पसंदीदा लॉगिन सत्यापन कोड वाला फ़ोन है",
 	"an account managed by an organization": "एक खाता जो किसी संगठन द्वारा प्रबंधित है",
 	"ar": "العربية (अरबी)",
-	"authorize_footer": "<a href='https://www.hello.coop/' target='_blank' class='underline'>Hello Identity Co-op</a> हमारे <a href='https:/ के अधीन यह सेवा प्रदान करता है \n/www.hello.coop/terms-of-service.html\" target=”_blank” class=”underline”>सेवा की शर्तें</a> और <a href=”https://www.hello.coop/privacy \n-policy.html\" target=”_blank” class=”underline”>गोपनीयता नीति</a>.",
+	"authorize_footer": "<a href=\"https://www.hello.coop/\" target=\"_blank\" class=\"underline\">Hellō Identity Co-op</a> यह सेवा हमारे <a href=\"https://www.hello.coop/terms-of-service.html\" target=\"_blank\" class=\"underline\">सेवा की शर्तें</a> और <a href=\"https://www.hello.coop/privacy-policy.html\" target=\"_blank\" class=\"underline\">गोपनीयता नीति</a> के अधीन प्रदान करता है।",
 	"could not find provider": "प्रदाता को नहीं ढूंढ सके",
 	"de": "Deutsch (जर्मन)",
 	"device": "डिवाइस",
