@@ -13,7 +13,7 @@ This step-by-step guide is written assuming that this may be your first time con
 | fr | French | Jennifer Hardt
 | de | German | Nicole Fior-Greant, [Zak Greant](https://github.com/zakgreant)
 | es | Spanish | Santiago Madrid
-| pt | Portuguese | [Tiago Rangel](https://tiagorangel.com/)
+| pt | Portuguese | [Tiago Rangel](https://tiagorangel.com/) [Filipe Veiga](https://github.com/FCVeiga)
 | pt-BR | Brazilian Portuguese | Review Pending
 | xx | Don't see a locale? PR's welcome! | your-name-here
 
